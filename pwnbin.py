@@ -1,5 +1,5 @@
 import time
-import urllib
+import urllib.request
 import datetime
 import sys, getopt
 from bs4 import BeautifulSoup
